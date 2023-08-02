@@ -14,7 +14,7 @@ Python3 é necessário.
    ```
 3. Baixe o modelo YoloV8 na raiz do projeto
    ```bash
-   wget https://yoloV8n......
+   wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt
    ```
 4. Configure o arquivo de configuração
    ```bash
