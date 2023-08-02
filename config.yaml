@@ -1,0 +1,12 @@
+path: /home/rafhael/Projetos/SMA/mi-sma-testes/treinamento_yolov8/
+train: 'train/images'
+val: 'train/images'
+
+#class names
+names:
+  0: Pessoa
+  1: Placa
+  2: Moto
+  3: Carro
+  4: Caminhao
+  5: Onibus
